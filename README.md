@@ -19,7 +19,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="40" src="img/javascript.svg" alt="JavaScript"></a>
 <a href="https://reactjs.org/" target="_blank"><img height="40" src="img/react.svg" alt="React"></a>
 <a href="https://vercel.com/" target="_blank"><img height="40" src="img/vercel.svg" alt="Vercel"></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img height="40" src="img/vscode.svg" alt="VSCode"></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img height="40" src="img/vscode.svg" alt="VScode"></a>
 <a href="https://git-scm.com/" target="_blank"><img height="40" src="img/git.svg" alt="Git"></a>
 </div>
 </p>
