@@ -28,3 +28,4 @@
 ## Connect with me:
 
 <a href="https://www.instagram.com/gabrielp__s/" target="_blank"><img src="img/instagram.svg" alt="Instagram Gabriel" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabriel-pereira-b044851a5/" target="_blank"><img src="img/linkedin.svg" alt="Linkedin Gabriel" height="40" width="40" /></a>
