@@ -17,6 +17,7 @@
 <a href="https://www.w3schools.com/html/" target="_blank"><img height="40" src="img/html.svg" alt="HTML5"></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img height="40" src="img/css.svg" alt="CSS3"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="40" src="img/javascript.svg" alt="JavaScript"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img height="40" src="img/typescript.svg" alt="TypeScript"></a>
 <a href="https://reactjs.org/" target="_blank"><img height="40" src="img/react.svg" alt="React"></a>
 <a href="https://nextjs.org/" target="_blank"><img height="40" src="img/nextjs.svg" alt="NextJs"></a>
 <a href="https://sass-lang.com/" target="_blank"><img height="40" src="img/sass.svg" alt="Sass"></a>
