@@ -1,14 +1,5 @@
-<h1>Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriel</h1>
+<h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Gabriel</h1>
 <h3>A Front-End Developer with experience in building responsive, accessible websites and web applications.</h3>
-
-
-## About me:
-
-:computer: Studying Analysis and Systems Development
-
-:books: Currently studying React, NextJs and TypeScript
-
-:video_game: I love videogames and movies
 
 ## Languages and Tools:
 
@@ -28,6 +19,13 @@
 </div>
 </p>
 
+## About me:
+
+:computer: Graduated in Analysis and Systems Development
+
+:books: Currently studying React, NextJs and TypeScript
+
+:video_game: I love videogames and movies
 
 ## Connect with me:
 
