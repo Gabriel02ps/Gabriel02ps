@@ -11,8 +11,13 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img height="40" src="img/typescript.svg" alt="TypeScript"></a>
 <a href="https://reactjs.org/" target="_blank"><img height="40" src="img/react.svg" alt="React"></a>
 <a href="https://nextjs.org/" target="_blank"><img height="40" src="img/nextjs.svg" alt="NextJs"></a>
-<a href="https://sass-lang.com/" target="_blank"><img height="40" src="img/sass.svg" alt="Sass"></a>
+<a href="https://nestjs.org/" target="_blank"><img height="40" src="img/nestjs.svg" alt="NestJs"></a>
+<a href="https://tailwindcss.com/" target="_blank"><img height="40" src="img/tailwind.svg" alt="Tailwind"></a>
+<a href="https://mui.com/" target="_blank"><img height="40" src="img/material.svg" alt="MaterialUI"></a>
+<a href="https://chakra-ui.com/" target="_blank"><img height="40" src="img/chakra.svg" alt="ChakraUI"></a>
 <a href="https://styled-components.com/" target="_blank"><img height="40" src="img/styled-components.svg" alt="Styled Components"></a>
+<a href="https://sass-lang.com/" target="_blank"><img height="40" src="img/sass.svg" alt="Sass"></a>
+<a href="https://cypress.io/" target="_blank"><img height="40" src="img/cypress.svg" alt="Cypress"></a>
 <a href="https://vercel.com/" target="_blank"><img height="40" src="img/vercel.svg" alt="Vercel"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img height="40" src="img/vscode.svg" alt="VScode"></a>
 <a href="https://git-scm.com/" target="_blank"><img height="40" src="img/git.svg" alt="Git"></a>
