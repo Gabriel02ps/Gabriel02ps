@@ -11,8 +11,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img height="40" src="img/typescript.svg" alt="TypeScript"></a>
 <a href="https://reactjs.org/" target="_blank"><img height="40" src="img/react.svg" alt="React"></a>
 <a href="https://nextjs.org/" target="_blank"><img height="40" src="img/nextjs.svg" alt="NextJs"></a>
-<a href="https://nestjs.org/" target="_blank"><img height="40" src="img/nestjs.svg" alt="NestJs"></a>
-<a href="https://tailwindcss.com/" target="_blank"><img height="40" src="img/tailwind.svg" alt="Tailwind"></a>
+<a href="https://nestjs.com/" target="_blank"><img height="40" src="img/nestjs.svg" alt="NestJs"></a>
+<a href="https://tailwindcss.com/" target="_blank"><img height="40" src="img/tailwindcss.svg" alt="Tailwind"></a>
 <a href="https://mui.com/" target="_blank"><img height="40" src="img/material.svg" alt="MaterialUI"></a>
 <a href="https://chakra-ui.com/" target="_blank"><img height="40" src="img/chakra.svg" alt="ChakraUI"></a>
 <a href="https://styled-components.com/" target="_blank"><img height="40" src="img/styled-components.svg" alt="Styled Components"></a>
