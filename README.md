@@ -1,5 +1,6 @@
-<h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Gabriel</h1>
-<h3>A Front-End Developer with experience in building responsive, accessible websites and web applications.</h3>
+# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Gabriel!
+
+A **Front-End Developer** with experience in building responsive, accessible websites and web applications.
 
 ## Languages and Tools:
 
